@@ -9,11 +9,11 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 ### About me :book:: 
 - :ant: I'm currently learning more about Front-End and Back-End.
-- :rabbit2: I'm currently learning about UX/UI design.
+- :rabbit2: I'm currently learning about UX/UI Design.
 - :honeybee: I'm bilingual (Spanish and English).
-- :penguin:
-- :frog:
-- 💬 Ask me about anything, I am happy to help!
+- :frog: 
+- :mailbox_with_no_mail: How to reach me: jhonatan.esp21@gmail.com
+- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!
 
 <!--
 **JhonatanEspinosa02/JhonatanEspinosa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
