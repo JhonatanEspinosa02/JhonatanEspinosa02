@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Jhonatan Espinosa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi There, I'm Jhonatan Espinosa! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <blockquote style="font-size: 24px;">
   <p align="center">
     <strong>"The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt"</strong>
@@ -11,7 +11,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 - :ant: I'm currently learning more about Front-End and Back-End.
 - :rabbit2: I'm currently learning about UX/UI Design.
 - :honeybee: I'm bilingual (Spanish and English).
-- :frog: 
+- :bell: how to find my projects: [Insert my portafolio's link]
 - :mailbox_with_no_mail: How to reach me: jhonatan.esp21@gmail.com
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!
 
