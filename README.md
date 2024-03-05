@@ -7,7 +7,8 @@
 
 Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantly exploring new technologies and embracing challenges, passionate and creative Full-Stack developer from Mexico, looking for a first job opportunity :shipit:
 
-### :mortar_board: About me : 
+### :mortar_board: About me :
+<br>
 - :ant: I'm currently learning more about MERN Stack.
 - :snowflake: I'm currently learning about UX/UI Design.
 - :fallen_leaf: I'm bilingual (Spanish and English).
