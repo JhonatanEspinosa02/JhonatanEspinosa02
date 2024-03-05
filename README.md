@@ -1,8 +1,6 @@
 <h1 align="center">Hi There, I'm Jhonatan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
+
 <!--
 **JhonatanEspinosa02/JhonatanEspinosa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
