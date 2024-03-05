@@ -7,10 +7,10 @@
 
 Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, passionate and creative Full-Stack developer from Mexico, looking for a first job opportunity :shipit:
 
-### About me: 
-- :ant:
-- :rabbit2:
-- :honeybee:
+### About me :book:: 
+- :ant: I'm currently learning more about Front-End and Back-End.
+- :rabbit2: I'm currently learning about UX/UI design.
+- :honeybee: I'm bilingual (Spanish and English).
 - :penguin:
 - :frog:
 
