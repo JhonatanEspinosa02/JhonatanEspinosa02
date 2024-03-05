@@ -18,6 +18,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+
 <!--
 **JhonatanEspinosa02/JhonatanEspinosa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
