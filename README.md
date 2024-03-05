@@ -5,7 +5,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, passionate and creative Full-Stack developer from Mexico, looking for a first job opportunity :shipit:
+Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantly exploring new technologies and embracing challenges, passionate and creative Full-Stack developer from Mexico, looking for a first job opportunity :shipit:
 
 ### About me :book:: 
 - :ant: I'm currently learning more about Front-End and Back-End.
@@ -13,6 +13,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, passionat
 - :honeybee: I'm bilingual (Spanish and English).
 - :penguin:
 - :frog:
+- 💬 Ask me about anything, I am happy to help!
 
 <!--
 **JhonatanEspinosa02/JhonatanEspinosa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
