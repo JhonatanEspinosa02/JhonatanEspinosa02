@@ -5,6 +5,8 @@
   </p>
 </blockquote>
 
+Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, passionate and creative Full-Stack developer from Mexico, looking for a first job opportunity :shipit:
+
 ### About me: 
 - :ant:
 - :rabbit2:
