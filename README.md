@@ -4,7 +4,9 @@
 <blockquote style="font-size: 24px;">
   <p align="center">
     <strong>"The future belongs to those who believe in the beauty of their dreams."</strong>
-    <strong align="center">"-Eleanor Roosevelt"</strong>
+  </p>
+  <p align="center">
+    <strong align="center">-Eleanor Roosevelt</strong>
   </p>
 </blockquote>
 
