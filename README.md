@@ -64,11 +64,12 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 
 <p align="center">
- #### Thanks for visiting :heart:
+  Thanks for visiting :heart:
   <br />
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+#### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 <!--
 **JhonatanEspinosa02/JhonatanEspinosa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
