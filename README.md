@@ -20,7 +20,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 - :mailbox_with_no_mail: How to reach me: jhonatan.esp21@gmail.com
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!
 
-  <p><iframe src="https://giphy.com/embed/vCpSKY03aSg9XkKFcW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/regalmovies-kung-fu-panda-4-kungfupanda4-vCpSKY03aSg9XkKFcW">via GIPHY</a></p></p>
+<p>https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR3NnNidHcza3lrazN5eXJjM21ncXdjM2Q3Ynd4aTlkYWJhaHdtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCpSKY03aSg9XkKFcW/giphy.gif</p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
