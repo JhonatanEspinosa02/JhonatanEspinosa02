@@ -45,20 +45,14 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 ## :bust_in_silhouette: Social Media 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chakravarthi-v/">
+  <a href="">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/ChakriVV">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/___chakri_/">
+  <a href="">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:chakravarthiviswanath@gmail.com">
+  <a href="">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://github.com/chakravarthi-v">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
 
