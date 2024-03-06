@@ -41,7 +41,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
   ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=JhonatanEspinosa02&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JhonatanEspinosa02&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## :bust_in_silhouette: Social Media 
 <p align="center">
