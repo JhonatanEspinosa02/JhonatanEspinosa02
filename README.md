@@ -35,6 +35,8 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats  
+
 ## :bust_in_silhouette: Social Media 
 <p align="center">
   <a href="https://www.linkedin.com/in/chakravarthi-v/">
