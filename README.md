@@ -42,8 +42,8 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=JhonatanEspinosa02&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![JhonatanEspinosa02](https://github-readme-stats.vercel.app/api?username=JhonatanEspinosa02&theme=midnight-purple_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![JhonatanEspinosa02 GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanEspinosa02&theme=midnight-purple_icons=true)
+
 
 ## :bust_in_silhouette: Social Media 
 <p align="center">
