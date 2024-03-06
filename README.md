@@ -45,6 +45,8 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 ![JhonatanEspinosa02 GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanEspinosa02&theme=midnight-purple&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanEspinosa02&layout=compact)
+
 
 ## :bust_in_silhouette: Social Media 
 <p align="center">
