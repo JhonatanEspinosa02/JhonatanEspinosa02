@@ -41,12 +41,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
   ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats  
-  <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JhonatanEspinosa02&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## :bust_in_silhouette: Social Media 
 <p align="center">
