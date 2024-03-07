@@ -66,8 +66,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-<p>https://capsule-render.vercel.app/api?type=waving&height=100&color=4b0082&text=Input%20text&reversal=false&textBg=false&section=footer&fontAlign=50&descAlign=60</p>
-
+<p><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4b0082&text=Input%20text&reversal=false&textBg=false&section=footer&fontAlign=50&descAlign=60"></p>
 
 
 <!--
