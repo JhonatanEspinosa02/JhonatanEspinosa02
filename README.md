@@ -41,12 +41,13 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
   ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats  
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=JhonatanEspinosa02&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![JhonatanEspinosa02 GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanEspinosa02&theme=midnight-purple&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanEspinosa02&layout=compact)
-
+</div>
 
 ## :bust_in_silhouette: Social Media 
 <p align="center">
@@ -66,7 +67,7 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-<p><img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4b0082&reversal=false&textBg=false&section=footer&fontAlign=61&descAlign=60&fontAlignY=60&descAlignY=60"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4b0082&reversal=false&textBg=false&section=footer&fontAlign=61&descAlign=60&fontAlignY=60&descAlignY=60"></p>
 
 
 <!--
