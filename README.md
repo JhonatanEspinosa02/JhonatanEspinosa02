@@ -15,8 +15,8 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 <p align="center"><img width="150" height="100" src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif"></p>
 
 ## :mortar_board: About me 
-- :ant: I'm currently learning more about MERN Stack.
-- :snowflake: I'm currently learning about UX/UI Design.
+- :ant: I'm currently learning more about React, Node and TypeScript.
+- :snowflake: I'm currently learning about Figma Design.
 - :fallen_leaf: I'm bilingual (Spanish and English).
 - :bell: How to find my projects: [Insert my portafolio's link]
 - :mailbox_with_no_mail: How to reach me: jhonatan.esp21@gmail.com
