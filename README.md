@@ -10,7 +10,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantly exploring new technologies and embracing challenges, passionate and creative Full-Stack developer from Mexico, looking for a first job opportunity :shipit:
+Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantly exploring new technologies and embracing challenges, passionate and creative Full-Stack developer from Mexico, Seeking opportunities for professional growth. :shipit:
 
 <p align="center"><img width="150" height="100" src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif"></p>
 
